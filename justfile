@@ -3,3 +3,4 @@ _default:
 
 build:
   whiskers qt5ct.tera
+  whiskers qt6ct.tera
